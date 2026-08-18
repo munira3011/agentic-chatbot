@@ -1,0 +1,9 @@
+# Daily AI News Summary 
+### 2026-08-18
+- [AI‑generated content overload prompts platforms like Google, YouTube, TikTok, Pinterest, and Substack to roll out detection tools and user controls.](https://indianexpress.com/article/technology/artificial-intelligence/sick-of-ai-slop-so-are-tech-giants-10837964/lite)  
+- [India’s enterprise ICT sector is projected to grow 15.5 % driven by AI ecosystem funding, cloud demand, and public‑private investments, while Vietnam pushes 6G research and Malaysia’s U Mobile partners with OpenAI.](https://www.telecomreviewasia.com/news/industry-news/30012-indias-enterprise-ict-sector-set-for-15-5-growth)  
+- [A LinkedIn study finds women hold only 13.3 % of senior AI roles worldwide, highlighting widening gender gaps in hiring, leadership, and pay.](https://pressinsider.com/news/ai-boom-widens-the-gender-divide-linkedin-study-shows)  
+- [Analysis of 1.8 million patents shows AI’s expanding economic value and its cross‑sector influence.](https://www.forbesindia.com/amp/article/thought-leadership/harvard-business-school/a-tool-for-winners-what-1-8-million-patents-reveal-about-ais-value/2997258/1)  
+- [Fast‑growing AI jobs are leaving women behind, with low female representation in AI‑related roles across the globe.](https://www.business-standard.com/technology/artificial-intelligence/ai-s-fast-growing-lucrative-jobs-leaving-women-behind-across-the-globe-126081800581_1.html)  
+- [AI‑related stocks retreat as markets react to broader volatility in the AI sector.](https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-hong-kong-stocks-slip-as-ai-shares-retreat-energy-stocks-gain/articleshow/133312183.cms)  
+- [Nvidia secures land, power, and data‑center resources in Ohio with SB Energy, underscoring the critical role of physical infrastructure for the next AI surge.](https://www.devdiscourse.com/article/business/3964846-nvidia-paves-the-way-securing-infrastructure-for-ais-next-leap?amp=)  
